@@ -9,8 +9,6 @@
     - [**3D Printing Tools**](#3d-printing-tools)
     - [**This Portfolio Website**](#this-portfolio-website)
 
-
-
 ## **Python**
 
 ### **TCP Emulator**
