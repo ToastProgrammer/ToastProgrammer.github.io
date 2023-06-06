@@ -1,42 +1,61 @@
-# **Benjamin Tozier Projects**
+# **Benjamin Tozier's Project Portfolio**
 
-- [**Benjamin Tozier Projects**](#benjamin-tozier-projects)
-  - [**Python**](#python)
-    - [**TCP Emulator**](#tcp-emulator)
-  - [**C/C++**](#cc)
-    - [**ARM Embedded Practice**](#arm-embedded-practice)
-  - [**Misc**](#misc)
-    - [**3D Printing Tools**](#3d-printing-tools)
-    - [**This Portfolio Website**](#this-portfolio-website)
+## Summary
 
-## **Python**
-
-### **TCP Emulator**
-
-Mockup version of TCP created using sockets and datagrams.
-
-[To Add](#tcp-emulator)
+I am a software engineer with a focus on software, hardware, and the technologies where the two meet. Additionally, I possess a fascination with math, physics, and robotics. Thusly, I have started working specifically to develop projects focused around those and a smattering of other assorted topics. This portfolio is intended to be a collection of those projects.
 
 ---
 
-## **C/C++**
+## Table of Contents
 
-### **ARM Embedded Practice**
-
-Playing around with developing serial protocol drivers and multithreading on an ARM processor.
-
-[To Add](#arm-embedded-practice)
+- [**Benjamin Tozier's Project Portfolio**](#benjamin-toziers-project-portfolio)
+  - [Summary](#summary)
+  - [Table of Contents](#table-of-contents)
+  - [Math and Data](#math-and-data)
+    - [PDE Solver](#pde-solver)
+    - [Practice](#practice)
+      - [Numpy and Matplotlib](#numpy-and-matplotlib)
+  - [Misc](#misc)
+    - [This Portfolio Website](#this-portfolio-website)
+  - [Old](#old)
+    - [TCP Emulator](#tcp-emulator)
 
 ---
 
-## **Misc**
+## Math and Data
 
-### **3D Printing Tools**
+### PDE Solver
 
-[To Add](#3d-printing-tools)
+Partial Differential Equation solver with a focus on representation and visualization of the data. The work on this is ongoing and it will be updated continuously.
 
-### **This Portfolio Website**
+[*Source*](https://github.com/ToastProgrammer/pde_lib)
+
+### Practice
+
+Repositories for recording the learning progress in various modules, math, and simulations.
+
+#### Numpy and Matplotlib
+
+Using numpy and matplotlib to solve problems, represent data, and create graphs.
+
+[Source](https://github.com/ToastProgrammer/numpy_practice)
+
+---
+
+## Misc
+
+### This Portfolio Website
 
 Repository this website is built from using GitHub Pages and Jekyll.
 
 [Source](https://github.com/ToastProgrammer/ToastProgrammer.github.io)
+
+---
+
+## Old
+
+### TCP Emulator
+
+Mockup version of TCP created using sockets and datagrams for academic purposes. This was created as a project for a networking class. It was not intended to be used for anything other than educational purposes.
+
+[TCP Eumaltor](https://github.com/ToastProgrammer/TCP_Python_Emulator)
